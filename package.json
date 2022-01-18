@@ -1,0 +1,29 @@
+{
+  "name": "2kama",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "watch": "node builder-config.js",
+    "watch:dev": "nodemon builder-config.js"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chokidar": "^3.5.2",
+    "esbuild": "^0.14.11",
+    "phin": "^3.6.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "uWebSockets.js": "github:uNetworking/uWebSockets.js#v20.6.0",
+    "wouter": "^2.8.0-alpha.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15",
+    "prettier": "2.5.1"
+  }
+}
