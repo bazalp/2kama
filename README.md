@@ -1,5 +1,5 @@
 # 2kama
-2kama is a development framework based on esbuild. It comes to correct some performance problems that we encounter when we develop with other builders and mainly create-react-app which works with webpack.
+2kama is a development framework based on [esbuild](https://esbuild.github.io/). It comes to correct some performance problems that we encounter when we develop with other builders and mainly [create-react-app](https://create-react-app.dev/) which works with [webpack](https://webpack.js.org/).
 
 ## Why ?
 If you have already created a react application with create-react-app you must have realized that it is too slow for 2022.
