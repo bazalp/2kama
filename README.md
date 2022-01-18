@@ -12,18 +12,18 @@ Nevertheless, with 2kama the objective is to offer a pleasant and turnkey develo
 Moreover, the philosophy of this project is: small and fast, that's why it relies on a handful of carefully chosen packages.
 
 ## Road map
-[x] Creation of a test react app
-[x] Setting up esbuild
-[x] Proxy between the browser and the esbuild server
-[x] watching the source folder files
-[x] Setting up the socket server
-[x] esbuild plugin to add the socket client to the entry point
-[ ] Client socket
-[ ] Socket messages for Reload
-[ ] Port Discovery
-[ ] React-refresh
-[ ] Typescript
-[ ] Write tests
+- [x] Creation of a test react app
+- [x] Setting up esbuild
+- [x] Proxy between the browser and the esbuild server
+- [x] watching the source folder files
+- [x] Setting up the socket server
+- [x] esbuild plugin to add the socket client to the entry point
+- [ ] Client socket
+- [ ] Socket messages for Reload
+- [ ] Port Discovery
+- [ ] React-refresh
+- [ ] Typescript
+- [ ] Write tests
 ...And many others, but not too many either!
 
 ## Participation
