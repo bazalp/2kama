@@ -1,4 +1,4 @@
-<div align="center" style="text-align: center"><img src="https://raw.githubusercontent.com/souricevincent/2kama/master/media/2kama-logo.svg" width="230" alt="2kama logo"/></div>
+<div align="center" style="text-align: center"><img src="https://raw.githubusercontent.com/souricevincent/2kama/main/media/2kama-logo.svg" width="230" alt="2kama logo"/></div>
 
 
 # 2kama
