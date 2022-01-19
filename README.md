@@ -1,3 +1,6 @@
+<div align="center" style="text-align: center"><img src="https://raw.githubusercontent.com/souricevincent/2kama/master/media/2kama-logo.svg" width="230" alt="2kama logo"/></div>
+
+
 # 2kama
 2kama is a development framework based on [esbuild](https://esbuild.github.io/). It comes to correct some performance problems that we encounter when we develop with other builders and mainly [create-react-app](https://create-react-app.dev/) which works with [webpack](https://webpack.js.org/).
 
@@ -17,9 +20,9 @@ Moreover, the philosophy of this project is: small and fast, that's why it relie
 - [x] Proxy between the browser and the esbuild server
 - [x] watching the source folder files
 - [x] Setting up the socket server
-- [x] esbuild plugin to add the socket client to the entry point
+- [x] Esbuild plugin to add the socket client to the entry point
 - [ ] Client socket
-- [ ] Socket messages for Reload
+- [ ] Socket messages for hot reload
 - [ ] Port Discovery
 - [ ] React-refresh
 - [ ] Typescript
